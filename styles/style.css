@@ -52,6 +52,11 @@ button{
     width: 100%;
     color: white;
 }
+.operator_e{
+    background-color: orangered;
+    width: 100%;
+    color: white;
+}
 .number:hover{
     background-color: gray;
 }
